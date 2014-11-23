@@ -1,0 +1,11 @@
+Welcome to Moineau Paste Extruder!
+===================
+Copyright James K. Larson 2014
+jlarson@pacifier.com
+Please see the COPYING file for licensing information.
+
+This repository contains a number of artifacts related to design
+and creation of an extruder for 3D printing using paste materials.
+Such materials might include clay, frosting, or oogoo. The extruder
+uses the design approach of Rene Moineau to provide positive
+displacement pumping action.
